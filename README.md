@@ -49,7 +49,7 @@ ColorHexplorer/
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Kirankumarvel/HexifyColor.git
-    cd ColorHexplorer
+    cd HexifyColor
     ```
 
 2. **Install required libraries:**
